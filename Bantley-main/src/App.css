@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+  /*background-color: rgb(24, 35, 56);*/
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+#blue-ban {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  background: rgb(137, 160, 181);
+}
+
+#purple-ban {
+  margin-top: 8px;
+  margin-bottom: 16px;
+  background: rgb(137, 160, 181);
+}
+
+#blue-pick {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+#purple-pick {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: auto;
+}
+
+.banned-champion {
+  -webkit-filter: grayscale(100%);
+}
+
+.greeting {
+  margin: 8px;
+}
+
+.champion-recommend-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 5% 0 10% 0;
+}
+
+.champion-recommend-container div {
+  margin: 0 30px;
+  padding: 0;
+}
+
+.champion-recommend-container div div {
+  margin: 0;
+  padding: 0;
+}
+
+.recommend-viewer-title {
+  margin-left: 24px;
+}
+
+.recommend-viewer-container {
+  margin: 16px 0 16px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.MuiAvatar-colorDefault {
+  background-color: white !important;
+}

@@ -1,0 +1,762 @@
+{
+    "Aatrox": {
+        "Win": 200,
+        "Lose": 163,
+        "WinRate": 5.096418732782368
+    },
+    "Ahri": {
+        "Win": 107,
+        "Lose": 122,
+        "WinRate": -3.275109170305676
+    },
+    "Akali": {
+        "Win": 1281,
+        "Lose": 1288,
+        "WinRate": -0.13623978201634657
+    },
+    "Alistar": {
+        "Win": 991,
+        "Lose": 1039,
+        "WinRate": -1.1822660098522135
+    },
+    "Amumu": {
+        "Win": 65,
+        "Lose": 67,
+        "WinRate": -0.7575757575757578
+    },
+    "Anivia": {
+        "Win": 7,
+        "Lose": 8,
+        "WinRate": -3.3333333333333357
+    },
+    "Annie": {
+        "Win": 74,
+        "Lose": 80,
+        "WinRate": -1.9480519480519476
+    },
+    "Aphelios": {
+        "Win": 855,
+        "Lose": 855,
+        "WinRate": 0.0
+    },
+    "Ashe": {
+        "Win": 1080,
+        "Lose": 1151,
+        "WinRate": -1.5912147019273846
+    },
+    "AurelionSol": {
+        "Win": 20,
+        "Lose": 22,
+        "WinRate": -2.3809523809523796
+    },
+    "Azir": {
+        "Win": 26,
+        "Lose": 30,
+        "WinRate": -3.5714285714285694
+    },
+    "Bard": {
+        "Win": 617,
+        "Lose": 622,
+        "WinRate": -0.20177562550443895
+    },
+    "Blitzcrank": {
+        "Win": 170,
+        "Lose": 175,
+        "WinRate": -0.7246376811594217
+    },
+    "Brand": {
+        "Win": 44,
+        "Lose": 51,
+        "WinRate": -3.6842105263157876
+    },
+    "Braum": {
+        "Win": 199,
+        "Lose": 196,
+        "WinRate": 0.37974683544303645
+    },
+    "Caitlyn": {
+        "Win": 482,
+        "Lose": 451,
+        "WinRate": 1.661307609860664
+    },
+    "Camille": {
+        "Win": 1833,
+        "Lose": 1808,
+        "WinRate": 0.3433122768470227
+    },
+    "Cassiopeia": {
+        "Win": 262,
+        "Lose": 295,
+        "WinRate": -2.9622980251346505
+    },
+    "Chogath": {
+        "Win": 26,
+        "Lose": 15,
+        "WinRate": 13.414634146341463
+    },
+    "Corki": {
+        "Win": 20,
+        "Lose": 11,
+        "WinRate": 14.516129032258064
+    },
+    "Darius": {
+        "Win": 92,
+        "Lose": 105,
+        "WinRate": -3.299492385786799
+    },
+    "Diana": {
+        "Win": 41,
+        "Lose": 47,
+        "WinRate": -3.4090909090909065
+    },
+    "Draven": {
+        "Win": 69,
+        "Lose": 89,
+        "WinRate": -6.329113924050631
+    },
+    "DrMundo": {
+        "Win": 9,
+        "Lose": 12,
+        "WinRate": -7.142857142857146
+    },
+    "Ekko": {
+        "Win": 709,
+        "Lose": 636,
+        "WinRate": 2.713754646840151
+    },
+    "Elise": {
+        "Win": 445,
+        "Lose": 421,
+        "WinRate": 1.3856812933025395
+    },
+    "Evelynn": {
+        "Win": 82,
+        "Lose": 96,
+        "WinRate": -3.932584269662918
+    },
+    "Ezreal": {
+        "Win": 1556,
+        "Lose": 1662,
+        "WinRate": -1.646985705407083
+    },
+    "Fiddlesticks": {
+        "Win": 125,
+        "Lose": 113,
+        "WinRate": 2.5210084033613427
+    },
+    "Fiora": {
+        "Win": 502,
+        "Lose": 530,
+        "WinRate": -1.3565891472868188
+    },
+    "Fizz": {
+        "Win": 185,
+        "Lose": 172,
+        "WinRate": 1.8207282913165272
+    },
+    "Galio": {
+        "Win": 887,
+        "Lose": 940,
+        "WinRate": -1.4504652435686936
+    },
+    "Gangplank": {
+        "Win": 288,
+        "Lose": 311,
+        "WinRate": -1.919866444073456
+    },
+    "Garen": {
+        "Win": 22,
+        "Lose": 16,
+        "WinRate": 7.89473684210526
+    },
+    "Gnar": {
+        "Win": 38,
+        "Lose": 34,
+        "WinRate": 2.7777777777777786
+    },
+    "Gragas": {
+        "Win": 176,
+        "Lose": 224,
+        "WinRate": -6.0
+    },
+    "Graves": {
+        "Win": 2149,
+        "Lose": 2095,
+        "WinRate": 0.6361922714420345
+    },
+    "Hecarim": {
+        "Win": 695,
+        "Lose": 738,
+        "WinRate": -1.5003489183531045
+    },
+    "Heimerdinger": {
+        "Win": 68,
+        "Lose": 73,
+        "WinRate": -1.7730496453900741
+    },
+    "Illaoi": {
+        "Win": 6,
+        "Lose": 6,
+        "WinRate": 0.0
+    },
+    "Irelia": {
+        "Win": 603,
+        "Lose": 599,
+        "WinRate": 0.1663893510815342
+    },
+    "Ivern": {
+        "Win": 108,
+        "Lose": 102,
+        "WinRate": 1.4285714285714306
+    },
+    "Janna": {
+        "Win": 227,
+        "Lose": 202,
+        "WinRate": 2.9137529137529157
+    },
+    "JarvanIV": {
+        "Win": 68,
+        "Lose": 83,
+        "WinRate": -4.966887417218544
+    },
+    "Jax": {
+        "Win": 862,
+        "Lose": 855,
+        "WinRate": 0.2038439138031478
+    },
+    "Jayce": {
+        "Win": 853,
+        "Lose": 809,
+        "WinRate": 1.3237063778580023
+    },
+    "Jhin": {
+        "Win": 2441,
+        "Lose": 2438,
+        "WinRate": 0.030744004919043277
+    },
+    "Jinx": {
+        "Win": 84,
+        "Lose": 91,
+        "WinRate": -2.0
+    },
+    "Kaisa": {
+        "Win": 1083,
+        "Lose": 1071,
+        "WinRate": 0.27855153203342553
+    },
+    "Kalista": {
+        "Win": 228,
+        "Lose": 264,
+        "WinRate": -3.6585365853658516
+    },
+    "Karma": {
+        "Win": 333,
+        "Lose": 320,
+        "WinRate": 0.9954058192955557
+    },
+    "Karthus": {
+        "Win": 602,
+        "Lose": 512,
+        "WinRate": 4.039497307001795
+    },
+    "Kassadin": {
+        "Win": 199,
+        "Lose": 215,
+        "WinRate": -1.9323671497584556
+    },
+    "Katarina": {
+        "Win": 130,
+        "Lose": 132,
+        "WinRate": -0.3816793893129784
+    },
+    "Kayle": {
+        "Win": 29,
+        "Lose": 36,
+        "WinRate": -5.384615384615387
+    },
+    "Kayn": {
+        "Win": 302,
+        "Lose": 332,
+        "WinRate": -2.3659305993690865
+    },
+    "Kennen": {
+        "Win": 293,
+        "Lose": 347,
+        "WinRate": -4.21875
+    },
+    "Khazix": {
+        "Win": 223,
+        "Lose": 258,
+        "WinRate": -3.6382536382536372
+    },
+    "Kindred": {
+        "Win": 750,
+        "Lose": 877,
+        "WinRate": -3.902888752304854
+    },
+    "Kled": {
+        "Win": 24,
+        "Lose": 32,
+        "WinRate": -7.142857142857146
+    },
+    "KogMaw": {
+        "Win": 14,
+        "Lose": 29,
+        "WinRate": -17.441860465116278
+    },
+    "Leblanc": {
+        "Win": 228,
+        "Lose": 235,
+        "WinRate": -0.7559395248380127
+    },
+    "LeeSin": {
+        "Win": 1071,
+        "Lose": 1077,
+        "WinRate": -0.13966480446927676
+    },
+    "Leona": {
+        "Win": 1410,
+        "Lose": 1351,
+        "WinRate": 1.0684534588917032
+    },
+    "Lillia": {
+        "Win": 1207,
+        "Lose": 1214,
+        "WinRate": -0.14456836018174357
+    },
+    "Lissandra": {
+        "Win": 35,
+        "Lose": 33,
+        "WinRate": 1.470588235294116
+    },
+    "Lucian": {
+        "Win": 1273,
+        "Lose": 1270,
+        "WinRate": 0.05898545025560509
+    },
+    "Lulu": {
+        "Win": 844,
+        "Lose": 891,
+        "WinRate": -1.3544668587896282
+    },
+    "Lux": {
+        "Win": 132,
+        "Lose": 117,
+        "WinRate": 3.0120481927710827
+    },
+    "Malphite": {
+        "Win": 235,
+        "Lose": 274,
+        "WinRate": -3.8310412573673887
+    },
+    "Malzahar": {
+        "Win": 15,
+        "Lose": 13,
+        "WinRate": 3.5714285714285694
+    },
+    "Maokai": {
+        "Win": 441,
+        "Lose": 434,
+        "WinRate": 0.3999999999999986
+    },
+    "MasterYi": {
+        "Win": 16,
+        "Lose": 19,
+        "WinRate": -4.285714285714285
+    },
+    "MissFortune": {
+        "Win": 564,
+        "Lose": 554,
+        "WinRate": 0.44722719141324063
+    },
+    "MonkeyKing": {
+        "Win": 352,
+        "Lose": 302,
+        "WinRate": 3.822629969418962
+    },
+    "Mordekaiser": {
+        "Win": 76,
+        "Lose": 93,
+        "WinRate": -5.029585798816569
+    },
+    "Morgana": {
+        "Win": 238,
+        "Lose": 201,
+        "WinRate": 4.214123006833709
+    },
+    "Nami": {
+        "Win": 14,
+        "Lose": 20,
+        "WinRate": -8.823529411764703
+    },
+    "Nasus": {
+        "Win": 17,
+        "Lose": 8,
+        "WinRate": 18.0
+    },
+    "Nautilus": {
+        "Win": 443,
+        "Lose": 447,
+        "WinRate": -0.22471910112359694
+    },
+    "Neeko": {
+        "Win": 45,
+        "Lose": 32,
+        "WinRate": 8.441558441558442
+    },
+    "Nidalee": {
+        "Win": 1241,
+        "Lose": 1114,
+        "WinRate": 2.6963906581740957
+    },
+    "Nocturne": {
+        "Win": 121,
+        "Lose": 117,
+        "WinRate": 0.8403361344537785
+    },
+    "Nunu": {
+        "Win": 239,
+        "Lose": 266,
+        "WinRate": -2.6732673267326703
+    },
+    "Olaf": {
+        "Win": 124,
+        "Lose": 125,
+        "WinRate": -0.20080321285140457
+    },
+    "Orianna": {
+        "Win": 828,
+        "Lose": 921,
+        "WinRate": -2.658662092624354
+    },
+    "Ornn": {
+        "Win": 378,
+        "Lose": 374,
+        "WinRate": 0.26595744680851396
+    },
+    "Pantheon": {
+        "Win": 1287,
+        "Lose": 1258,
+        "WinRate": 0.5697445972495103
+    },
+    "Poppy": {
+        "Win": 218,
+        "Lose": 219,
+        "WinRate": -0.1144164759725399
+    },
+    "Pyke": {
+        "Win": 369,
+        "Lose": 367,
+        "WinRate": 0.1358695652173907
+    },
+    "Qiyana": {
+        "Win": 404,
+        "Lose": 377,
+        "WinRate": 1.7285531370038427
+    },
+    "Quinn": {
+        "Win": 59,
+        "Lose": 70,
+        "WinRate": -4.263565891472865
+    },
+    "Rakan": {
+        "Win": 519,
+        "Lose": 482,
+        "WinRate": 1.8481518481518506
+    },
+    "Rammus": {
+        "Win": 27,
+        "Lose": 27,
+        "WinRate": 0.0
+    },
+    "RekSai": {
+        "Win": 383,
+        "Lose": 367,
+        "WinRate": 1.06666666666667
+    },
+    "Renekton": {
+        "Win": 1033,
+        "Lose": 1044,
+        "WinRate": -0.2648050072219519
+    },
+    "Rengar": {
+        "Win": 242,
+        "Lose": 246,
+        "WinRate": -0.4098360655737707
+    },
+    "Riven": {
+        "Win": 41,
+        "Lose": 37,
+        "WinRate": 2.564102564102562
+    },
+    "Rumble": {
+        "Win": 247,
+        "Lose": 300,
+        "WinRate": -4.844606946983546
+    },
+    "Ryze": {
+        "Win": 94,
+        "Lose": 81,
+        "WinRate": 3.7142857142857153
+    },
+    "Samira": {
+        "Win": 751,
+        "Lose": 358,
+        "WinRate": 17.718665464382326
+    },
+    "Sejuani": {
+        "Win": 86,
+        "Lose": 59,
+        "WinRate": 9.310344827586206
+    },
+    "Senna": {
+        "Win": 657,
+        "Lose": 775,
+        "WinRate": -4.120111731843572
+    },
+    "Sett": {
+        "Win": 1632,
+        "Lose": 1705,
+        "WinRate": -1.0937968234941593
+    },
+    "Shaco": {
+        "Win": 43,
+        "Lose": 36,
+        "WinRate": 4.430379746835442
+    },
+    "Shen": {
+        "Win": 626,
+        "Lose": 596,
+        "WinRate": 1.2274959083469739
+    },
+    "Shyvana": {
+        "Win": 67,
+        "Lose": 65,
+        "WinRate": 0.7575757575757578
+    },
+    "Singed": {
+        "Win": 118,
+        "Lose": 107,
+        "WinRate": 2.444444444444443
+    },
+    "Sion": {
+        "Win": 48,
+        "Lose": 40,
+        "WinRate": 4.545454545454547
+    },
+    "Sivir": {
+        "Win": 26,
+        "Lose": 33,
+        "WinRate": -5.932203389830505
+    },
+    "Skarner": {
+        "Win": 22,
+        "Lose": 20,
+        "WinRate": 2.3809523809523796
+    },
+    "Sona": {
+        "Win": 9,
+        "Lose": 9,
+        "WinRate": 0.0
+    },
+    "Soraka": {
+        "Win": 66,
+        "Lose": 69,
+        "WinRate": -1.1111111111111143
+    },
+    "Swain": {
+        "Win": 62,
+        "Lose": 42,
+        "WinRate": 9.615384615384613
+    },
+    "Sylas": {
+        "Win": 1463,
+        "Lose": 1509,
+        "WinRate": -0.7738896366083452
+    },
+    "Syndra": {
+        "Win": 413,
+        "Lose": 357,
+        "WinRate": 3.636363636363633
+    },
+    "TahmKench": {
+        "Win": 244,
+        "Lose": 275,
+        "WinRate": -2.9865125240847803
+    },
+    "Taliyah": {
+        "Win": 171,
+        "Lose": 163,
+        "WinRate": 1.1976047904191631
+    },
+    "Talon": {
+        "Win": 416,
+        "Lose": 413,
+        "WinRate": 0.18094089264173618
+    },
+    "Taric": {
+        "Win": 259,
+        "Lose": 257,
+        "WinRate": 0.19379844961240167
+    },
+    "Teemo": {
+        "Win": 15,
+        "Lose": 13,
+        "WinRate": 3.5714285714285694
+    },
+    "Thresh": {
+        "Win": 1092,
+        "Lose": 1041,
+        "WinRate": 1.1954992967651208
+    },
+    "Tristana": {
+        "Win": 119,
+        "Lose": 110,
+        "WinRate": 1.965065502183407
+    },
+    "Trundle": {
+        "Win": 25,
+        "Lose": 23,
+        "WinRate": 2.0833333333333357
+    },
+    "Tryndamere": {
+        "Win": 38,
+        "Lose": 34,
+        "WinRate": 2.7777777777777786
+    },
+    "TwistedFate": {
+        "Win": 516,
+        "Lose": 460,
+        "WinRate": 2.868852459016395
+    },
+    "Twitch": {
+        "Win": 249,
+        "Lose": 240,
+        "WinRate": 0.9202453987730053
+    },
+    "Udyr": {
+        "Win": 23,
+        "Lose": 17,
+        "WinRate": 7.5
+    },
+    "Urgot": {
+        "Win": 110,
+        "Lose": 106,
+        "WinRate": 0.9259259259259238
+    },
+    "Varus": {
+        "Win": 39,
+        "Lose": 36,
+        "WinRate": 2.0
+    },
+    "Vayne": {
+        "Win": 163,
+        "Lose": 186,
+        "WinRate": -3.295128939828082
+    },
+    "Veigar": {
+        "Win": 9,
+        "Lose": 6,
+        "WinRate": 10.0
+    },
+    "Velkoz": {
+        "Win": 17,
+        "Lose": 15,
+        "WinRate": 3.125
+    },
+    "Vi": {
+        "Win": 15,
+        "Lose": 13,
+        "WinRate": 3.5714285714285694
+    },
+    "Viktor": {
+        "Win": 193,
+        "Lose": 207,
+        "WinRate": -1.75
+    },
+    "Vladimir": {
+        "Win": 294,
+        "Lose": 274,
+        "WinRate": 1.7605633802816882
+    },
+    "Volibear": {
+        "Win": 411,
+        "Lose": 453,
+        "WinRate": -2.430555555555557
+    },
+    "Warwick": {
+        "Win": 8,
+        "Lose": 14,
+        "WinRate": -13.636363636363633
+    },
+    "Xayah": {
+        "Win": 59,
+        "Lose": 53,
+        "WinRate": 2.6785714285714306
+    },
+    "Xerath": {
+        "Win": 12,
+        "Lose": 21,
+        "WinRate": -13.636363636363633
+    },
+    "XinZhao": {
+        "Win": 254,
+        "Lose": 314,
+        "WinRate": -5.281690140845072
+    },
+    "Yasuo": {
+        "Win": 401,
+        "Lose": 380,
+        "WinRate": 1.3444302176696539
+    },
+    "Yone": {
+        "Win": 596,
+        "Lose": 582,
+        "WinRate": 0.5942275042444791
+    },
+    "Yorick": {
+        "Win": 7,
+        "Lose": 6,
+        "WinRate": 3.8461538461538467
+    },
+    "Yuumi": {
+        "Win": 213,
+        "Lose": 232,
+        "WinRate": -2.1348314606741567
+    },
+    "Zac": {
+        "Win": 169,
+        "Lose": 198,
+        "WinRate": -3.9509536784741144
+    },
+    "Zed": {
+        "Win": 191,
+        "Lose": 171,
+        "WinRate": 2.762430939226519
+    },
+    "Ziggs": {
+        "Win": 52,
+        "Lose": 59,
+        "WinRate": -3.1531531531531556
+    },
+    "Zilean": {
+        "Win": 20,
+        "Lose": 24,
+        "WinRate": -4.545454545454547
+    },
+    "Zoe": {
+        "Win": 720,
+        "Lose": 737,
+        "WinRate": -0.5833905284831857
+    },
+    "Zyra": {
+        "Win": 22,
+        "Lose": 15,
+        "WinRate": 9.45945945945946
+    },
+    "Seraphine": {
+        "Win": 300,
+        "Lose": 322,
+        "WinRate": -1.7684887459807044
+    }
+}
